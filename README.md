@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+User+%F0%9F%91%8B;Frontend+Engineer+%F0%9F%9A%80;Mobile+App+Enthusiast+%E2%9C%A8;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+ZHAOJIAYI+%F0%9F%91%8B;Frontend+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
 ## 🌟 **About Me**
@@ -79,24 +79,9 @@
 
 ## 💭 **Motto**
 
-<div align="center" style="
-    font-family: 'Georgia', serif;
-    font-size: 24px;
-    color: #333;
-    background-color: #f8f8f8;
-    padding: 20px 40px;
-    border-radius: 10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    max-width: 80%;
-    margin: 20px auto;
-    line-height: 1.6;
-    text-align: center;
-    font-style: italic;
-    letter-spacing: 1px;
-    word-wrap: break-word;
-    border: 2px solid #dcdcdc;
-">
-    Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better. ーbuffet
+<div align="center">
+    Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better.
+                                                                                                                      ーWarren Buffett
 </div>
 
 <div align="center">
@@ -105,8 +90,6 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-  **⭐ From [user](https://github.com/user) with ❤️**
   
 </div>
 
