@@ -84,11 +84,11 @@
 </div>
 
 <div align="center">
-  <p style="font-size: 20px; font-family: 'Arial', sans-serif; color: #A9FEF7; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
+  <h4>
     Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better.
     <br>
-    <strong>ーWarren Buffett</strong>
-  </p>
+    <strong >ーWarren Buffett</strong>
+  </h4>
 </div>
 
 <div align="center">
