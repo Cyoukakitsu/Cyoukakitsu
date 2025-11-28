@@ -23,12 +23,12 @@
 <td width="400" align="left">
 
 ### 👋 **Hi, I'm User!**
-🚀 **Flutter Developer** passionate about mobile development  
+🚀 **Frontend Engineer**  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful mobile applications  
-☕ **Powered by:** Coffee and curiosity  
-🎯 **Goal:** Creating amazing user experiences  
+💼 **Focus:** Building beautiful Web applications  
+☕ **Powered by:** Money  
+🎯 **Goal:** FullStack Engineer  
 
 </td>
 </tr>
@@ -52,41 +52,36 @@
 <tr>
 <td width="50%" align="center" valign="top">
 
-### 📱  **Mobile Development**
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
+### 📱  **programming languages**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 
 ### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase,firebase" />
+<img src="https://skillicons.dev/icons?i=supabase" />
 
 ### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github,postman" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
 
 </td>
 <td width="50%" align="center" valign="top">
 
-### 🗄️  **Database**
-<img src="https://skillicons.dev/icons?i=postgresql,sqlite" />
-
 ### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop" />
+<img src="https://skillicons.dev/icons?i=figma,materialui" />
 
-### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css" />
+### 💻  **Frameworks**
+<img src="https://skillicons.dev/icons?i=react,vite" />
+
+### 📚  **Others**
+<img src="https://skillicons.dev/icons?i=pnpm,tailwind" />
 
 </td>
 </tr>
 </table>
 
-## 🏆 **GitHub Trophies (Commits)**
+## 💭 **Motto**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=user&theme=transparent&no-frame=true&no-bg=false&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Commit,Commits" />
-</div>
-
-## 💭 **Random Dev Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" />
+  Choose your heroes very carefully and then emulate them. You will never be perfect, but you 
+can always be better.
 </div>
 
 <div align="center">
