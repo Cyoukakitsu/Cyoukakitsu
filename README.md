@@ -18,11 +18,11 @@
 <tr>
 <td width="200" align="center">
 <img src="https://skillicons.dev/icons?i=react" width="100" height="100" alt="Flutter" />
-<br><strong>Flutter</strong>
+<br><strong>React</strong>
 </td>
 <td width="400" align="left">
 
-### 👋 **Hi, I'm User!**
+### 👋 **Hi, I'm ZHAOJIAYI!**
 🚀 **Frontend Engineer**  
 
 🌍 **Location:** Japan 🇯🇵  
