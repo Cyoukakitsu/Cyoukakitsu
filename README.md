@@ -39,7 +39,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2020" alt="readme streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=user&theme=transparent&border_radius=10&starting_year=2025" alt="readme streak stats" />
 </div>
 
 <div align="center">
@@ -79,9 +79,24 @@
 
 ## 💭 **Motto**
 
-<div align="center">
-  Choose your heroes very carefully and then emulate them. You will never be perfect, but you 
-can always be better.
+<div align="center" style="
+    font-family: 'Georgia', serif;
+    font-size: 24px;
+    color: #333;
+    background-color: #f8f8f8;
+    padding: 20px 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 80%;
+    margin: 20px auto;
+    line-height: 1.6;
+    text-align: center;
+    font-style: italic;
+    letter-spacing: 1px;
+    word-wrap: break-word;
+    border: 2px solid #dcdcdc;
+">
+    Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better. ーbuffet
 </div>
 
 <div align="center">
@@ -93,6 +108,5 @@ can always be better.
   
   **⭐ From [user](https://github.com/user) with ❤️**
   
-  *"Flutter makes everything beautiful! 🦋"*
 </div>
 
