@@ -80,8 +80,15 @@
 ## 💭 **Motto**
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&animation=twinkling" />
+</div>
+
+<div align="center">
+  <p style="font-size: 20px; font-family: 'Arial', sans-serif; color: #A9FEF7; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">
     Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better.
-                                                                                                                      ーWarren Buffett
+    <br>
+    <strong>ーWarren Buffett</strong>
+  </p>
 </div>
 
 <div align="center">
