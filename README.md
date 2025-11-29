@@ -26,7 +26,7 @@
 🚀 **Frontend Engineer**  
 
 🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful Web applications  
+💼 **Focus:** Building beautiful Web Applications  
 ☕ **Powered by:** Money  
 🎯 **Goal:** FullStack Engineer  
 
