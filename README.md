@@ -39,7 +39,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Cyoukakitsu" alt="GitHub Streak" /></a>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Cyoukakitsu)](https://git.io/streak-stats)
 </div>
 
 <div align="center">
