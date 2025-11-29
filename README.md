@@ -39,7 +39,7 @@
 ## 📊 **GitHub Analytics**
 
 <div align="center">
- [![GitHub Streak](https://streak-stats.demolab.com?user=Cyoukakitsu)](https://git.io/streak-stats)
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cyoukakitsu" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
