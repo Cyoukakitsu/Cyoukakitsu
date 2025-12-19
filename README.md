@@ -68,7 +68,7 @@
 <img src="https://skillicons.dev/icons?i=figma,materialui" />
 
 ### 💻  **Frameworks**
-<img src="https://skillicons.dev/icons?i=react,vite" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,vite" />
 
 ### 📚  **Others**
 <img src="https://skillicons.dev/icons?i=pnpm,tailwind" />
