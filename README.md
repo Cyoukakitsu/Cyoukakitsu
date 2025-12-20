@@ -71,7 +71,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite" />
 
 ### 📚  **Others**
-<img src="https://skillicons.dev/icons?i=pnpm,tailwind" />
+<img src="https://skillicons.dev/icons?i=pnpm,tailwind,vitest" />
 
 </td>
 </tr>
