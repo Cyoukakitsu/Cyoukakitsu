@@ -36,15 +36,6 @@
 
 </div>
 
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Cyoukakitsu" alt="GitHub Streak" /></a>
-</div>
-
- <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cyoukakitsu&custom_title=ZHAOJIAYI's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&hide_border=true" />
-</div> 
 
 ## 🛠️ **Tech Stack**
 
