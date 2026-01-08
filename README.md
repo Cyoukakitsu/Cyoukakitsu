@@ -62,7 +62,7 @@
 <img src="https://skillicons.dev/icons?i=nextjs,react,vite" />
 
 ### 📚  **Others**
-<img src="https://skillicons.dev/icons?i=pnpm,tailwind,vitest" />
+<img src="https://skillicons.dev/icons?i=pnpm,tailwind,vitest,pnpm,bun" />
 
 </td>
 </tr>
