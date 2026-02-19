@@ -28,7 +28,7 @@
 
 🌍 **Location:** Japan 🇯🇵  
 💼 **Focus:** Building beautiful Web Applications  
-☕ **Powered by:** Money  
+☕ **Powered by:** Money & Curiosity  
 🎯 **Goal:** FullStack Engineer  
 
 </td>
