@@ -1,94 +1,63 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-</div>
+# ZHAOJIAYI — Frontend Engineer
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=header&animation=twinkling" />
-</div>
+> *"Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better."*  
+> — Warren Buffett
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=000000&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+ZHAOJIAYI+%F0%9F%91%8B;Frontend+Engineer+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+---
 
-</div>
+## About
 
-## 🌟 **About Me**
-
-<div align="center">
-
-<table>
-<tr>
-<td width="200" align="center">
-<img src="https://skillicons.dev/icons?i=react" width="100" height="100" alt="React" />
-<br><strong>React</strong>
-</td>
-<td width="400" align="left">
-
-### 👋 **Hi, I'm ZHAOJIAYI!**
-🚀 **Frontend Engineer**  
-
-🌍 **Location:** Japan 🇯🇵  
-💼 **Focus:** Building beautiful Web Applications  
-☕ **Powered by:** Money & Curiosity  
-🎯 **Goal:** FullStack Engineer  
-
-</td>
-</tr>
-</table>
-
-</div>
+Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack development with a focus on building AI-integrated web applications.
 
 
-## 🛠️ **Tech Stack**
+- 🚀 Currently building **[AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto)** — a Next.js 15 app with real-time market data, Supabase auth, and AI-powered investment insights
+- 🧩 Working on **[ts-quest](https://github.com/Cyoukakitsu)** — a gamified TypeScript challenge site for JS developers
+- ✍️ Writing technical articles on [Qiita](https://qiita.com/)
+- 🎯 Goal: Full-stack engineer specializing in AI integration
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
+---
 
-### 📱  **programming languages**
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+## Tech Stack
 
-### ☁️  **Backend as a Service (BaaS)**
-<img src="https://skillicons.dev/icons?i=supabase" />
+**Frontend**
 
-### 🔧  **Development Tools**
-<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-</td>
-<td width="50%" align="center" valign="top">
+**Backend / Infra**
 
-### 🎨  **Design**
-<img src="https://skillicons.dev/icons?i=figma,materialui" />
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 💻  **Frameworks**
-<img src="https://skillicons.dev/icons?i=nextjs,react,vite" />
+**Tooling**
 
-### 📚  **Others**
-<img src="https://skillicons.dev/icons?i=pnpm,tailwind,vitest,git,bun" />
+![pnpm](https://img.shields.io/badge/pnpm-F69220?style=flat-square&logo=pnpm&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-</td>
-</tr>
-</table>
+---
 
-## 💭 **Motto**
+## Projects
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=header&animation=twinkling" />
-</div>
+| Project | Stack | Description |
+|---|---|---|
+| [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 15, Supabase, Vercel AI SDK | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
+| [FIRE Calculator](https://github.com/Cyoukakitsu) | React, TypeScript, Tailwind CSS | Financial Independence Retire Early simulator — visualize your path to financial freedom |
 
-<div align="center">
-  <h4>
-    Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better.
-    <br>
-    <strong >ーWarren Buffett</strong>
-  </h4>
-</div>
+---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />
-</div>
+## GitHub Stats
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-  
-</div>
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Cyoukakitsu&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyoukakitsu&layout=compact&theme=default&hide_border=true" />
+</p>
 
+---
+
+## Connect
+
+[![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/ZHAOJIAYI)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyoukakitsu)
