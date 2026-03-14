@@ -11,7 +11,6 @@ Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack dev
 
 
 - 🚀 Currently building **[AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto)** — a Next.js 15 app with real-time market data, Supabase auth, and AI-powered investment insights
-- 🧩 Working on **[ts-quest](https://github.com/Cyoukakitsu)** — a gamified TypeScript challenge site for JS developers
 - ✍️ Writing technical articles on [Qiita](https://qiita.com/)
 - 🎯 Goal: Full-stack engineer specializing in AI integration
 
@@ -44,7 +43,7 @@ Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack dev
 | Project | Stack | Description |
 |---|---|---|
 | [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 15, Supabase, Vercel AI SDK | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
-| [FIRE Calculator](https://github.com/Cyoukakitsu) | React, TypeScript, Tailwind CSS | Financial Independence Retire Early simulator — visualize your path to financial freedom |
+| [FIRE Calculator]([https://github.com/Cyoukakitsu](https://github.com/Cyoukakitsu/fire--calculator--v1.1)) | React, TypeScript, Tailwind CSS | Financial Independence Retire Early simulator — visualize your path to financial freedom |
 
 ---
 
