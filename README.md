@@ -11,6 +11,7 @@ Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack dev
 
 
 - 🚀 Currently building **[AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto)** — a Next.js 15 app with real-time market data, Supabase auth, and AI-powered investment insights
+- 🏋️ Currently building **[TS GYM](https://github.com/Cyoukakitsu/TS-gym)** — a TypeScript practice platform with Monaco Editor sandbox and Groq AI Japanese code review
 - ✍️ Writing technical articles on [Qiita](https://qiita.com/ZHAOJIAYI) and [Zenn](https://zenn.dev/zhaojiayi)
 - 🎯 Goal: Full-stack engineer specializing in AI integration
 
