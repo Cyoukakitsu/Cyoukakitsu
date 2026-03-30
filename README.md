@@ -1,4 +1,4 @@
-❯ # ZHAOJIAYI — Frontend Engineer                                                                                                       
+# ZHAOJIAYI — Frontend Engineer                                                                                                       
                                                                                                                                         
 > *"Choose your heroes very carefully and then emulate them. You will never be perfect, but you can always be better."*                 
 > — Warren Buffett                                                                                                                      
