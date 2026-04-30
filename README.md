@@ -45,8 +45,8 @@ Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack dev
 
 | Project | Stack | Description |
 |---|---|---|
-| [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 15, Supabase, Vercel AI SDK | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
-| [院GO](https://github.com/Cyoukakitsu/go-in-app) | Next.js 15, Supabase, shadcn/ui | Graduate school application manager for Chinese students in Japan |
+| [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 16, Supabase, Vercel AI SDK | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
+| [院GO](https://github.com/Cyoukakitsu/go-in-app) | Next.js 16, Supabase, shadcn/ui | Graduate school application manager for Chinese students in Japan |
 | [TS GYM](https://github.com/Cyoukakitsu/TS-gym) | TypeScript, Monaco Editor, Groq AI | TypeScript practice platform with AI Japanese code review |
 | [FIRE Calculator](https://github.com/Cyoukakitsu/fire--calculator--v1.1) | React, TypeScript, Tailwind CSS | Financial Independence Retire Early simulator — visualize your path to financial freedom |
 
