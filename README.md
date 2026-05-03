@@ -10,7 +10,6 @@
 Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack development with a focus on building AI-integrated web applications.
 
 - 🚀 Currently building **[AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto)** — a Next.js 15 app with real-time market data, Supabase auth, and AI-powered investment insights
-- 🎓 Currently building **[院GO](https://github.com/Cyoukakitsu/go-in-app)** — a graduate school application management tool for Chinese students in Japan
 - 🏋️ Currently building **[TS GYM](https://github.com/Cyoukakitsu/TS-gym)** — a TypeScript practice platform with Monaco Editor sandbox and Groq AI Japanese code review
 - ✍️ Writing technical articles on [Qiita](https://qiita.com/ZHAOJIAYI) and [Zenn](https://zenn.dev/zhaojiayi)
 - 🎯 Goal: Full-stack engineer specializing in AI integration
@@ -47,8 +46,6 @@ Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack dev
 | Project | Stack | Description |
 |---|---|---|
 | [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 16, Supabase, Vercel AI SDK | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
-| [院GO](https://github.com/Cyoukakitsu/go-in-app) | Next.js 16, Supabase, shadcn/ui | Graduate school application manager for Chinese students in Japan |
-| [TS GYM](https://github.com/Cyoukakitsu/TS-gym) | TypeScript, Monaco Editor, Groq AI | TypeScript practice platform with AI Japanese code review |
 | [FIRE Calculator](https://github.com/Cyoukakitsu/fire--calculator--v1.1) | React, TypeScript, Tailwind CSS | Financial Independence Retire Early simulator — visualize your path to financial freedom |
 
 ---
