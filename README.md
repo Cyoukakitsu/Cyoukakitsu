@@ -44,7 +44,7 @@ Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack dev
 
 | Project | Stack | Description |
 |---|---|---|
-| [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 16, Supabase, Vercel AI SDK | DeepSeek | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
+| [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 16, Supabase, Vercel AI SDK，DeepSeek | Real-time stock/crypto tracker with AI-powered analysis and multi-agent investment insights |
 | [FIRE Calculator](https://github.com/Cyoukakitsu/fire--calculator--v1.1) | React, TypeScript, Tailwind CSS | Financial Independence Retire Early simulator — visualize your path to financial freedom |
 
 ---
