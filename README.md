@@ -9,7 +9,11 @@
 
 Frontend engineer based in **Japan 🇯🇵**, transitioning into full-stack development with a focus on building AI-integrated web applications.
 
-- 🚀 Currently building **[AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto)** — a Next.js 15 app with real-time market data, Supabase auth, and AI-powered investment insights
+✨ Featured Projects
+- **AI Portfolio Manager** — AI-powered portfolio analytics platform for stocks and crypto
+- **FireFlow** — Financial Independence (FIRE) planning and retirement forecasting tool
+- **XDigest** — AI-generated X/Twitter digest with daily email reports and market insights
+
 - ✍️ Writing technical articles on [Qiita](https://qiita.com/ZHAOJIAYI) and [Zenn](https://zenn.dev/zhaojiayi)
 - 🎯 Goal: Full-stack engineer specializing in AI integration
 
