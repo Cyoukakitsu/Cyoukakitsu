@@ -9,8 +9,7 @@ Self-taught full-stack developer building AI-powered products with Next.js, Node
 ## 🌱 What I'm Focused On
 
 * Building AI agents
-* Learning software engineering fundamentals, including Node.js (without delegating the code to AI)
-* Distilling technical books into agent skills (currently: リーダブルコード)
+* Exploring agent harness engineering (the loop, tools, context, and guardrails around the model) by studying today's leading AI agents, such as Pi and Claude Code
 * Writing up what I learn on Qiita and Zenn
 
 ---
