@@ -46,6 +46,7 @@ An AI-driven information intelligence platform that tracks X (Twitter) accounts,
 
 ### Backend & Infrastructure
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
@@ -67,6 +68,8 @@ An AI-driven information intelligence platform that tracks X (Twitter) accounts,
 | [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 16 · Supabase · Vercel AI SDK · DeepSeek | Portfolio management platform with real-time market tracking and AI-powered investment insights |
 | [FireFlow](https://github.com/Cyoukakitsu/fire--calculator--v1.1)                         | React · TypeScript · Tailwind CSS                | FIRE planning tool for retirement forecasting and long-term wealth simulations                  |
 | [XDigest](https://github.com/Cyoukakitsu/XDigest)                                         | React · FastAPI · twikit · OpenRouter            | Automated X intelligence platform with AI summaries and scheduled email reports                 |
+| [readable-code-skill](https://github.com/Cyoukakitsu/readable-code-skill)                 | Claude Code Skill · Markdown                     | Claude Code skill distilled from リーダブルコード that reviews TypeScript / JavaScript code for readability without rewriting it |
+| [meal-planner](https://github.com/Cyoukakitsu/meal-planner)                               | Hono · Cloudflare Workers · Neon Postgres · MCP  | Personal MCP server that tracks grocery inventory and plans meals from what is in stock, used from Claude on mobile |
 
 ---
 
