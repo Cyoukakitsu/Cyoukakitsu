@@ -53,7 +53,7 @@ Self-taught full-stack developer building AI-powered products with Next.js, Node
 | [AI Portfolio Manager](https://github.com/Cyoukakitsu/AI-Portfolio-Manager-Stocks-Crypto) | Next.js 16 · Supabase · Vercel AI SDK · DeepSeek | Portfolio management platform with real-time market tracking and AI-powered investment insights |
 | [FireFlow](https://github.com/Cyoukakitsu/fire--calculator--v1.1)                         | React · TypeScript · Tailwind CSS                | FIRE planning tool for retirement forecasting and long-term wealth simulations                  |
 | [XDigest](https://github.com/Cyoukakitsu/XDigest)                                         | React · FastAPI · twikit · OpenRouter            | Automated X intelligence platform with AI summaries and scheduled email reports                 |
-| [readable-code-skill](https://github.com/Cyoukakitsu/readable-code-skill)                 | Agent Skill · Markdown                           | Readability review skill based on リーダブルコード (WIP: chapters 1–2 so far)                      |
+| [readable-code-skill](https://github.com/Cyoukakitsu/readable-code-skill)                 | Agent Skill · Markdown                           | Readability review skill based on リーダブルコード (covers all 15 chapters)                      |
 | [meal-planner](https://github.com/Cyoukakitsu/meal-planner)                               | Hono · Cloudflare Workers · Neon · MCP           | Personal MCP server for grocery inventory and meal planning, used from Claude on mobile         |
 
 ---
