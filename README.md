@@ -71,7 +71,6 @@ Self-taught full-stack developer building AI-powered products with Next.js, Node
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Cyoukakitsu)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500?style=flat-square&logo=qiita&logoColor=white)](https://qiita.com/ZHAOJIAYI)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF?style=flat-square&logo=zenn&logoColor=white)](https://zenn.dev/zhaojiayi)
 
